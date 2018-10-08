@@ -11,7 +11,9 @@ isPaid = true // change value : true
 
 if isPaid{ // true value
     
-    print("Payment completed")
+    print("Payment completed") // message positive
+    
 }else{ // false value
-    print("Payment not completed")
+    
+    print("Payment not completed") // message negative
 }
