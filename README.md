@@ -1,2 +1,2 @@
 # SwiftProgramming
-It is a project that describes the basics of Swift programming. 
+It's a project that describes the basics of Swift Programming. 
